@@ -20,7 +20,7 @@ Biologists and students often need quick answers about a DNA sequence: how long 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bio-dna-analyzer.git
+   git clone https://github.com/riolexion/bio-dna-analyzer.git
    cd bio-dna-analyzer
    ```
 
