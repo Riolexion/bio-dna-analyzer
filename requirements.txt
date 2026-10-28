@@ -1,0 +1,11 @@
+# ========================================
+# Dependencies & Import Information
+# ========================================
+
+# Standard Library Imports (pre-installed with Python, no pip install needed):
+# import argparse
+# import sys
+
+# Note:
+# All modules used in 'DNA_Analyzer.py' belong to the Python Standard Library.
+# No external third-party packages need to be installed.
